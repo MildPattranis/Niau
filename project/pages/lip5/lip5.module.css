@@ -57,97 +57,49 @@
 }
 .g{
     position: absolute;
-    background-color: #8F3E35;
+    background-color: #B7513C;
     height: 7%;
     width: 4%;
-    border: 1px solid #8F3E35;
-    top:132%;
+    border: 1px solid #B7513C;
+    top:124%;
     left:34%;
 }
 .g1{
     position: absolute;
     font-size: 130%;
     color: black;
-    top:140%;
-    left: 35%;
+    top:132%;
+    left: 35.4%;
 }
 .h{
     position: absolute;
-    background-color: #c15c40;
+    background-color: #DD5952;
     height: 7%;
     width: 4%;
-    border: 1px solid #c15c40;
-    top:132%;
+    border: 1px solid #DD5952;
+    top:124%;
     left:39%;
 }
 .h1{
     position: absolute;
     font-size: 130%;
     color: black;
-    top:140%;
-    left: 40%;
+    top:132%;
+    left: 40.4%;
 }
 .i{
     position: absolute;
-    background-color: #ae5953;
+    background-color: #EF6577;
     height: 7%;
     width: 4%;
-    border: 1px solid #ae5953;
-    top:132%;
+    border: 1px solid #EF6577;
+    top:124%;
     left:44%;
 }
 .i1{
     position: absolute;
     font-size: 130%;
     color: black;
-    top:140%;
-    left: 45%;
-}
-.j{
-    position: absolute;
-    background-color: #b05649;
-    height: 7%;
-    width: 4%;
-    border: 1px solid #b05649;
     top:132%;
-    left:49%;
-}
-.j1{
-    position: absolute;
-    font-size: 130%;
-    color: black;
-    top:140%;
-    left: 50%;
-}
-.k{
-    position: absolute;
-    background-color: #d26b79;
-    height: 7%;
-    width: 4%;
-    border: 1px solid #d26b79;
-    top:132%;
-    left:54%;
-}
-.k1{
-    position: absolute;
-    font-size: 130%;
-    color: black;
-    top:140%;
-    left: 55%;
-}
-.l{
-    position: absolute;
-    background-color: #A94859;
-    height: 7%;
-    width: 4%;
-    border: 1px solid #A94859;
-    top:132%;
-    left:59%;
-}
-.l1{
-    position: absolute;
-    font-size: 130%;
-    color: black;
-    top:140%;
-    left: 60%;
+    left: 45.4%;
 }

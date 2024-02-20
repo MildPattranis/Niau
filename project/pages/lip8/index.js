@@ -1,18 +1,18 @@
 import Navigator2 from "@/components/NavigatorBar2"
-import styles from ".//lip1.module.css";
+import styles from ".//lip8.module.css";
 import Link from "next/link";
-export default function lip1(){
+export default function lip8(){
     return(
         <div>
             <Navigator2/>
-            <Link href="/" className={styles.back}>
+            <Link href="/naturaltone" className={styles.back}>
                 Back
             </Link>
             <div className={styles.a}>
                 <h1>REVLON Matte Lipstick</h1>
             </div>
             <div className={styles.pic}>
-                <img src="https://api.watsons.co.th/medias/zoom-front-208727.jpg?context=bWFzdGVyfGltYWdlc3w4OTI4MzF8aW1hZ2UvanBlZ3xhRFZpTDJneVlpODVOREV4TWpFMU5UVTJOak00TDFkVVExUklMVEl3T0RjeU55MW1jbTl1ZEM1cWNHY3w1ZTI4NGNiMTI0MjE4NWI3YmQ3YmFjYjM2NDc5NGYzODM1YzkzZTE0MjY1ZTZiNDJlNTEwNTk4ZmI2NjNlYjEw"
+                <img src="https://down-th.img.susercontent.com/file/th-11134207-7r98x-lnnrlvlbviuod4"
                 width={350} height={350} alt="not found"/>
             </div>
             <div className={styles.b}>
@@ -22,7 +22,7 @@ export default function lip1(){
                 Price : 189 baht
             </div>
             <div className={styles.d}>
-                Brand : REVLON Matte Stick<br></br>Color : 009 Fabulous Fig #8F3E35<br></br>Tone : Warm Tone<br></br>Glowy : 0/5<br></br>Matte : 5/5<br></br>Long Lasting : 1/5
+                Brand : REVLON Matte Stick<br></br>Color : 003 Mauve It Over #AE5953<br></br>Tone : Natural Tone<br></br>Glowy : 0/5<br></br>Matte : 5/5<br></br>Long Lasting : 1/5
             </div>
             <div className={styles.e}>
                 SHADE COLORS

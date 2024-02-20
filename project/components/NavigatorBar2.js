@@ -1,12 +1,12 @@
 import Link from "next/link"
 import styles from "./styles/navbar.module.css"
-export default function Navigator(){
+export default function Navigator2(){
     return(
         <nav>
             <div className={styles.navbar}>
             </div>
             <div className={styles.head}>
-                <h1>RECOMMEND</h1>
+                <h1>PRODUCTS</h1>
             </div>
             <Link href="/home" className={styles.data1}>
                 Home
